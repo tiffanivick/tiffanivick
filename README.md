@@ -1,6 +1,6 @@
 #### Hi there, I’m **Tiffani [website](https://www.tiffanivick.com)** 👋 
 
-- 👀 I’m interested in Business Intelligence related fields (i.e., Data Engineering, Data Analytics).
+- 👀 I’m interested in Business Intelligence related fields (i.e., Data Analyst, Business Analyst).
 - 🌱 I’m currently learning to build pipelines from MongoDB, and data exploratory analysis and data modeling using `Python`. 
 - 💞️ I’m looking to collaborate with other data enthusiasts. 
 
