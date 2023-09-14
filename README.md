@@ -1,7 +1,7 @@
 #### Hi there, I’m **Tiffani [website](https://www.tiffanivick.com)** 👋 
 
-- 👀 I’m interested in Business Intelligence related fields (i.e., Data Analyst, Business Analyst).
-- 🌱 I’m currently learning to use the Flask framework to build websites. 
+- 👀 I’m interested in Data Analyst related fields.
+- 🌱 I’m currently building a personal portfolio website using Python along with Flask and Bootstrap frameworks. 
 - 💞️ I’m looking to collaborate with other data enthusiasts. 
 
 
